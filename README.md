@@ -92,7 +92,3 @@ sudo ./setup_smartmat_server.sh teardown
 ```
 
 環境変数 `SMARTMAT_IP` で IP を指定可能（デフォルト: `hostname -I`）。
-
-## ライセンス
-
-LICENSE 参照。
